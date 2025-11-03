@@ -1,4 +1,5 @@
-# Rethinking-U-Shaped-Architecture-for-Domain-Generalization-in-Medical-Image-Segmentation
+# RUSA-DG
+Rethinking-U-Shaped-Architecture-for-Domain-Generalization-in-Medical-Image-Segmentation
 
 
 
